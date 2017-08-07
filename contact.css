@@ -52,3 +52,8 @@
     border-bottom: none;
   }
 }
+
+.contact {text-align: center;
+  list-style-type: none;
+  font-size: 20px;
+}
